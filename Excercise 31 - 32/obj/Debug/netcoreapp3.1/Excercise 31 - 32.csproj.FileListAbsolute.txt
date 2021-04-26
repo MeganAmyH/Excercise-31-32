@@ -1,0 +1,13 @@
+C:\Users\megan\source\repos\Excercise 31 - 32\Excercise 31 - 32\bin\Debug\netcoreapp3.1\Excercise 31 - 32.exe
+C:\Users\megan\source\repos\Excercise 31 - 32\Excercise 31 - 32\bin\Debug\netcoreapp3.1\Excercise 31 - 32.deps.json
+C:\Users\megan\source\repos\Excercise 31 - 32\Excercise 31 - 32\bin\Debug\netcoreapp3.1\Excercise 31 - 32.runtimeconfig.json
+C:\Users\megan\source\repos\Excercise 31 - 32\Excercise 31 - 32\bin\Debug\netcoreapp3.1\Excercise 31 - 32.runtimeconfig.dev.json
+C:\Users\megan\source\repos\Excercise 31 - 32\Excercise 31 - 32\bin\Debug\netcoreapp3.1\Excercise 31 - 32.dll
+C:\Users\megan\source\repos\Excercise 31 - 32\Excercise 31 - 32\bin\Debug\netcoreapp3.1\Excercise 31 - 32.pdb
+C:\Users\megan\source\repos\Excercise 31 - 32\Excercise 31 - 32\obj\Debug\netcoreapp3.1\Excercise 31 - 32.csprojAssemblyReference.cache
+C:\Users\megan\source\repos\Excercise 31 - 32\Excercise 31 - 32\obj\Debug\netcoreapp3.1\Excercise 31 - 32.AssemblyInfoInputs.cache
+C:\Users\megan\source\repos\Excercise 31 - 32\Excercise 31 - 32\obj\Debug\netcoreapp3.1\Excercise 31 - 32.AssemblyInfo.cs
+C:\Users\megan\source\repos\Excercise 31 - 32\Excercise 31 - 32\obj\Debug\netcoreapp3.1\Excercise 31 - 32.csproj.CoreCompileInputs.cache
+C:\Users\megan\source\repos\Excercise 31 - 32\Excercise 31 - 32\obj\Debug\netcoreapp3.1\Excercise 31 - 32.dll
+C:\Users\megan\source\repos\Excercise 31 - 32\Excercise 31 - 32\obj\Debug\netcoreapp3.1\Excercise 31 - 32.pdb
+C:\Users\megan\source\repos\Excercise 31 - 32\Excercise 31 - 32\obj\Debug\netcoreapp3.1\Excercise 31 - 32.genruntimeconfig.cache
